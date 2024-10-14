@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8385285.css",
-    "main.js": "/static/js/main.57212182.js",
-    "static/js/453.2ff4d8c8.chunk.js": "/static/js/453.2ff4d8c8.chunk.js",
-    "static/media/3.jpg": "/static/media/3.84d5235cc693e15661d6.jpg",
-    "static/media/2.jpg": "/static/media/2.bbb41348bb839b9124d8.jpg",
-    "static/media/1.jpg": "/static/media/1.509d4d795248ac9962f3.jpg",
-    "static/media/4.jpg": "/static/media/4.0c7885e97d08f0a61db1.jpg",
-    "static/media/night.jpg": "/static/media/night.ac6d287d5d0014553b87.jpg",
-    "index.html": "/index.html",
-    "main.f8385285.css.map": "/static/css/main.f8385285.css.map",
-    "main.57212182.js.map": "/static/js/main.57212182.js.map",
-    "453.2ff4d8c8.chunk.js.map": "/static/js/453.2ff4d8c8.chunk.js.map"
+    "main.css": "/lomba-web/static/css/main.f8385285.css",
+    "main.js": "/lomba-web/static/js/main.e8cf63b8.js",
+    "static/js/453.2ff4d8c8.chunk.js": "/lomba-web/static/js/453.2ff4d8c8.chunk.js",
+    "static/media/3.jpg": "/lomba-web/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/lomba-web/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/lomba-web/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/4.jpg": "/lomba-web/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/lomba-web/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/lomba-web/index.html",
+    "main.f8385285.css.map": "/lomba-web/static/css/main.f8385285.css.map",
+    "main.e8cf63b8.js.map": "/lomba-web/static/js/main.e8cf63b8.js.map",
+    "453.2ff4d8c8.chunk.js.map": "/lomba-web/static/js/453.2ff4d8c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8385285.css",
-    "static/js/main.57212182.js"
+    "static/js/main.e8cf63b8.js"
   ]
 }
